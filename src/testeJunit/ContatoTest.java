@@ -12,6 +12,7 @@ class ContatoTest {
 		
 		assertEquals(122,cont.getNumber1());
 		assertEquals("Claudia",cont.getName1());
+		
 
 	}
 
